@@ -1,0 +1,11 @@
+.tile-container, .center-tile-container {
+    border: 2px solid #f7f7f8;
+    border-radius: 8px;
+    box-shadow: 8px 4px 4px #c4c7cf;
+    background-color: #f7f7f8;
+}
+
+.center-tile-container {
+    grid-column: 6 / 19;
+    grid-row: 3 / 10;
+}
