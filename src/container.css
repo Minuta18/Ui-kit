@@ -1,8 +1,10 @@
 .tile-container, .center-tile-container {
-    border: 2px solid #f7f7f8;
-    border-radius: 8px;
-    box-shadow: 8px 4px 4px #c4c7cf;
-    background-color: #f7f7f8;
+    border: 2px solid #fff;
+    border-radius: 48px;
+    box-shadow: 0px 24px 48px #b7cfb7;
+    background-color: #fff;
+    text-align: start;
+    padding: 36px;
 }
 
 .center-tile-container {

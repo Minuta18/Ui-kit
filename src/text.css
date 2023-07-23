@@ -1,0 +1,45 @@
+.title1-font, .title2-font, .title3-font, .headline-font, .mini-font {
+    display: block;
+    font-family: 'Montserrat', Helvetica, sans-serif;
+    font-size: 52px;
+    font-weight: 700;
+    color: #000e1f;
+    padding-bottom: 12px;
+}
+
+.title2-font {
+    font-size: 43px;
+}
+
+.title3-font {
+    font-size: 34px;
+}
+
+.headline-font {
+    font-size: 25px;
+}
+
+.body-font, .body-bold-font {
+    display: block;
+    font-family: 'Montserrat', Helvetica, sans-serif;
+    font-size: 22px;
+    font-weight: 300;
+    color: #000e1f;
+    padding-bottom: 12px;
+}
+
+.body-bold-font {
+    font-weight: 700;
+}
+
+.h-line {
+    display: block;
+    border: 1px solid #c4c7cf;
+    margin-bottom: 12px;
+}
+
+.mini-font {
+    color: #c4c7cf;
+    font-size: 18px;
+    margin-bottom: 24px;
+}
